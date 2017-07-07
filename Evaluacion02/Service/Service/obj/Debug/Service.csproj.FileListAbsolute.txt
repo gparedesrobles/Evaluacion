@@ -1,0 +1,20 @@
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\Service.dll.config
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\Service.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\Service.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\DataLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\DataLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\bin\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\obj\Debug\Service.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\Service\Service\obj\Debug\Service.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\Service.dll.config
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\Service.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\Service.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\DataLayer.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\EntityLayer.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\DataLayer.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\bin\EntityLayer.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\obj\Debug\Service.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\Service\Service\obj\Debug\Service.pdb

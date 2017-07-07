@@ -1,0 +1,84 @@
+﻿@model Evaluacion02.Models.OrdenPagoModels
+
+@{
+    ViewBag.Title = "OrdenPagoAdd";
+}
+
+<h2>Registrar Orden Pago</h2>
+
+
+   
+
+    <fieldset>
+        <legend>Banco</legend>
+        <ol>
+            <li>
+                @using (Html.BeginForm("SucursalList", "OrdenPago", FormMethod.Post, new { @id = "SucursalForm" })) { 
+
+
+                    @Html.LabelFor(m => m.lbancos)
+                    @Html.DropDownListFor(m => m.id_banco, new SelectList(Model.lbancos,
+                               "id", "nombre"), "-- Seleccionar --")
+                    @Html.ValidationMessageFor(m => m.id_banco)
+                    }
+                </li>
+@using (Html.BeginForm("OrdenPagoAdd", "OrdenPago", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+   
+                <li>
+@if (Model.lsucursal!=null)
+{
+                    @Html.LabelFor(m => m.lsucursal)
+                        @Html.DropDownListFor(m => m.id_sucursal, new SelectList(Model.lsucursal,
+                            "id", "nombre"), "-- Seleccionar --")
+                        @Html.ValidationMessageFor(m => m.id_sucursal)
+}
+                </li>
+
+            <li>
+                @Html.LabelFor(m => m.nombre_moneda)
+                @Html.DropDownListFor(m => m.nombre_moneda, new SelectList(Model.moneda,
+                                "id", "descripcion"), "-- Seleccionar --")
+                @Html.ValidationMessageFor(m => m.nombre_moneda)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.monto)
+                @Html.TextBoxFor(m => m.monto)
+                @Html.ValidationMessageFor(m => m.monto)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.estado)
+                @Html.DropDownListFor(m => m.nombre_estado, new SelectList(Model.estado,
+                               "id", "descripcion"), "-- Seleccionar --")
+                @Html.ValidationMessageFor(m => m.nombre_estado)
+            </li>
+            <input type="submit" value="Registrar" />
+}
+      </ol>
+       
+
+    </fieldset>
+
+
+<div>
+    @Html.ActionLink("Retornar", "Index")
+</div>
+
+@section Scripts {
+
+    <script type="text/javascript">
+
+        $(function () {
+            $("#id_banco").change(function () {
+                $("#SucursalForm").submit();
+            });
+        });
+
+
+    </script>
+
+
+    @Scripts.Render("~/bundles/jqueryval")
+}

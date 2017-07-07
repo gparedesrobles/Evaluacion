@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Evaluacion02.Models.OrdenPagoModels>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de Pagos</h2>
+<p>
+    @Html.ActionLink("Crear Nuevo", "OrdenPagoAdd")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.moneda)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.monto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre_banco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre_sucursal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fecharegistro)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre_moneda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre_estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre_banco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre_sucursal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fecharegistro)
+            </td>
+            <td style="display:none;">
+                @Html.DisplayFor(modelItem => item.id_banco)
+            </td>
+            <td style="display:none;">
+                @Html.DisplayFor(modelItem => item.id_sucursal)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "OrdenPagoEdit", new { id = item.id, fecha = item.fecharegistro, monedai = item.nombre_moneda, monto = item.monto,id_banco= item.id_banco,id_sucursal = item.id_sucursal , estadoi=item.nombre_estado}) 
+                
+            </td>
+        </tr>
+
+    }
+    
+</table>

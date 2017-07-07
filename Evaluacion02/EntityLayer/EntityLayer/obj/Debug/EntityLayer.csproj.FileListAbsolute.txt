@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\Desktop\Evaluacion02\EntityLayer\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02\EntityLayer\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\EntityLayer\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\EntityLayer\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\evaluacion\Evaluacion02\EntityLayer\EntityLayer\bin\Debug\EntityLayer.dll
+D:\evaluacion\Evaluacion02\EntityLayer\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\evaluacion\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\evaluacion\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.dll
+D:\evaluacion\Evaluacion02\EntityLayer\EntityLayer\obj\Debug\EntityLayer.pdb

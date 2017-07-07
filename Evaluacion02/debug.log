@@ -1,0 +1,14 @@
+[0514/173922.925:ERROR:scoped_process_suspend.cc(30)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose.  (0xc000010a)
+[0514/173922.961:ERROR:process_info.cc(116)] ReadProcessMemory bool __cdecl crashpad::`anonymous-namespace'::ReadStruct<struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits64>>(void *,unsigned __int64,struct crashpad::process_types::PEB<struct crashpad::process_types::internal::Traits64> *): Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0514/173922.962:ERROR:process_info.cc(559)] ReadProcessData failed
+[0514/173922.962:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7fee8d02968 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0514/173922.962:WARNING:process_snapshot_win.cc(68)] ReadMemory ExceptionInformation failed
+[0514/173922.962:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0514/173932.450:ERROR:scoped_process_suspend.cc(30)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose.  (0xc000010a)
+[0514/173932.499:ERROR:process_info.cc(343)] VirtualQueryEx: Acceso denegado. (0x5)
+[0514/173932.499:ERROR:process_info.cc(564)] ReadMemoryInfo failed
+[0514/173932.499:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7fee8d02968 of 12 bytes failed: Sólo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0514/173932.499:WARNING:process_snapshot_win.cc(68)] ReadMemory ExceptionInformation failed
+[0514/173932.499:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0514/214035.136:ERROR:exception_snapshot_win.cc(87)] thread ID 9160 not found in process
+[0514/214035.151:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed

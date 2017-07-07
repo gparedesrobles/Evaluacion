@@ -1,0 +1,49 @@
+﻿@model Evaluacion02.Models.SucursalModels
+
+@{
+    ViewBag.Title = "SucursalEdit";
+}
+
+<h2>Modificar Sucursal</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Banco</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.id)
+                @Html.TextBoxFor(m => m.id, new { @readonly = "readonly" })
+            </li>
+            <li>
+                @Html.LabelFor(m => m.lbancos)
+                @Html.DropDownListFor(m => m.id_banco, new SelectList(Model.lbancos,
+                               "id", "nombre"), "-- Seleccionar --")
+                @Html.ValidationMessageFor(m => m.id_banco)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.nombre)
+                @Html.TextBoxFor(m => m.nombre)
+                @Html.ValidationMessageFor(m => m.nombre)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.direccion)
+                @Html.TextBoxFor(m => m.direccion)
+                @Html.ValidationMessageFor(m => m.direccion)
+            </li>
+           
+        </ol>
+        <input type="submit" value="Guardar" />
+    </fieldset>
+
+    <div>
+        @Html.ActionLink("Retornar", "Index")
+    </div>
+
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

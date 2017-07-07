@@ -1,0 +1,28 @@
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Giancarlo\Desktop\Evaluacion02Ultimo\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.pdb
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.dll
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.pdb
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.dll
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.pdb
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.dll
+D:\evaluacion\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion02\DataLayer\DataLayer\obj\Debug\DataLayer.pdb

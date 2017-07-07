@@ -1,0 +1,12 @@
+C:\Users\Giancarlo\Desktop\Prueba\Evaluacion\Evaluacion\bin\Debug\Evaluacion.dll.config
+C:\Users\Giancarlo\Desktop\Prueba\Evaluacion\Evaluacion\bin\Debug\Evaluacion.dll
+C:\Users\Giancarlo\Desktop\Prueba\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\Giancarlo\Desktop\Prueba\Evaluacion\Evaluacion\obj\Debug\Evaluacion.dll
+C:\Users\Giancarlo\Desktop\Prueba\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
+C:\Users\Giancarlo\Desktop\Prueba\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion\Evaluacion\bin\Debug\Evaluacion.dll.config
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion\Evaluacion\bin\Debug\Evaluacion.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csprojResolveAssemblyReference.cache
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion\Evaluacion\obj\Debug\Evaluacion.dll
+C:\Users\Giancarlo\Downloads\evaluacion-master (1)\evaluacion-master\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb

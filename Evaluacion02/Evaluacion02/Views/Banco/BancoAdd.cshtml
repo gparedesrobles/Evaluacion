@@ -1,0 +1,40 @@
+﻿@model Evaluacion02.Models.BancoModels
+
+@{
+    ViewBag.Title = "BancoAdd";
+}
+
+<h2>Registrar Banco</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Banco</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.nombre)
+                @Html.TextBoxFor(m => m.nombre)
+                @Html.ValidationMessageFor(m=>m.nombre)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.direccion)
+                @Html.TextBoxFor(m => m.direccion)
+                @Html.ValidationMessageFor(m => m.direccion)
+            </li>           
+        </ol>
+        <input type="submit" value="Registrar" />
+
+    </fieldset>
+
+}
+<div>
+    @Html.ActionLink("Retornar", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
