@@ -24,7 +24,7 @@ namespace Service
             return oPagoDL.getBySucursalAndMoneda(sucursal, moneda);
         }
 
-        [WebInvoke(Method = "GET", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = "getSucursal/{banco}")]
+      
         public List<Sucursal> getSucursal(string banco)
         {
             return oSucursalDL.getbyBanco(banco);
